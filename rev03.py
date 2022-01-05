@@ -1,3 +1,4 @@
+#DRAWING A SHAPE
 print("   /|")
 print("  / |")
 print(" /  |")
